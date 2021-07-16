@@ -115,10 +115,10 @@
   dependencies:
     "@types/node" "*"
 
-NeteaseCloudMusicApi@4.0.16:
-  version "4.0.16"
-  resolved "https://registry.yarnpkg.com/NeteaseCloudMusicApi/-/NeteaseCloudMusicApi-4.0.16.tgz#cdf890129beac728d00d4121dfd490ed987f3ad9"
-  integrity sha512-IlpA0fF4cMaKUZRC4knfqrkQQnE2jYOl5r2rF2lNJFYQA3l2spBN7+LCHM+zrZv9y8mGUa5WvRUcNNNssxT4bA==
+NeteaseCloudMusicApi@4.0.17:
+  version "4.0.17"
+  resolved "https://registry.yarnpkg.com/NeteaseCloudMusicApi/-/NeteaseCloudMusicApi-4.0.17.tgz#10151c04594777d04cc1447dee57ded87c297919"
+  integrity sha512-1V7fMGcTCvqlwpnOimc5iKYbxQf5Vn84MIHW8pQSgXeZEody4R8KoN2K/Nf3j2xxfv9EWOzcu1daT7laFef4cw==
   dependencies:
     axios "^0.21.1"
     express "^4.17.1"
